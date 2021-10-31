@@ -1,17 +1,15 @@
 Fate Points
 ===========
 
-Each Player Character starts the Session with 3 Fate Points. The GM gets
-a number of Fate Points equal to the number of Player Characters x 3
-(this means that you need 6 Fate Point tokens per player).
+Each Player Character starts the Session with 3 Fate Points (There is no "Refresh" concept in microFATE). The GM gets a number of Fate Points equal to the number of Player Characters x 3 (this means that you need 6 physical Fate Point tokens per player in total).
 
 When players spend Fate Points, they go to the GM’s pool (unless they
-are compelling another PC!).
+are compelling another PC!). [#]_
 
 The GM only spends Fate Points in two situations:
 
 1. when compelling a Player Character. The Fate Point goes to the
-   compelled Character.
+   compelled Character. [#]_
 2. when GM controlled NPCs invoke Aspects. The Fate Point goes to the
    most hindered PC by that action. When that’s not immediately clear,
    choose who gets the Fate Point:
@@ -30,6 +28,9 @@ each Action, and because players can compel each other, effectively
 passing Fate Points between themselves. This way, in microFATE the Fate
 Point Pool functions as a stronger equalizer in terms of tension and
 comeback potential than in Fate Core.
+
+.. [#] There is no "shared pool" or "outside pool" of Fate Points in microFATE. A Fate Point is either in the player's possession or in the GM's. Pools also don't reset after scenes or anything of that sort (only at the beginning of a Session).
+.. [#] Note that there is no mention of the player not being able to use the acquired Fate Point from a hostile invocation until the next Scene. This is by design; in microFATE you can use all of your Fate Points at any time, even those won by accepting a compel in the current scene.
 
 Using Fate Points
 -----------------

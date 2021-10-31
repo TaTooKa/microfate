@@ -7,28 +7,27 @@ Opposition Types
 Minions
 ~~~~~~~
 
-**A Minion doesn’t have Consequence slots**. They are nameless henchmen or lesser adversaries. Once successfully
-attacked, they are taken out.
+**A Minion doesn’t have Consequence slots**. They are nameless henchmen or lesser adversaries. Once successfully attacked, they are taken out.
+
+They can have any number of Aspects, normally ranging from 1 to 4.
 
 Menaces
 ~~~~~~~
 
-**A Menace has 1 mild and 1 moderate Consequence slots**. Usually, any named NPC in a Conflict is at least a Menace. A group of
-henchmen could also be considered as a single Menace.
+**A Menace has 1 mild and 1 moderate Consequence slots**. Usually, any named NPC in a Conflict is at least a Menace. A group of henchmen could also be considered as a single Menace. [#]_
+
+They can have any number of Aspects, normally ranging from 3 to 5.
 
 Nemesis
 ~~~~~~~
 
 **A Nemesis has 1 mild, 1 moderate and 1 severe Consequence slots**,
-effectively putting them at the same level as Player Characters.
+effectively putting them at the same level as Player Characters. [#]_
 
-A Nemesis is usually an important adversary that can give the player
-characters a hard time. If the GM wants to make them even more hard to
-be taken out, they can give them even more Consequence slots, but they
-should also consider giving them “invulnerability” Aspects instead:
-since Aspects Are True, when they declare that the actor cannot be
-affected or harmed by something, it doesn’t matter how hard the player
-Characters attack with that source, it won’t make a dent.
+They can have any number of Aspects, normally ranging from 4 to 7.
+
+.. [#] When you design a group of henchmen or horde as a Menace (to speed up combat, or for simplicity's sake), Consequences don't necessarily have to represent specific injuries; they can represent dwindling numbers or a low morale. 
+.. [#] A Nemesis is usually an important adversary that can give the player characters a hard time. If the GM wants to make them even more hard to be taken out, they can give them even more Consequence slots, but they should also consider giving them “invulnerability” Aspects instead: since *Aspects Are True*, when they declare that the actor cannot be affected or harmed by something, it doesn’t matter how hard the player Characters attack with that source, it won’t make a dent.
 
 Hazards and Traps
 ~~~~~~~~~~~~~~~~~
@@ -52,4 +51,4 @@ effects if the player Characters fail on their Overcome rolls. Others
 could be active actors that do Attack actions on the Characters (Hidden
 darts, rolling boulders, a far away sniper, etc). In those cases, they
 get a turn just like other adversary NPC, and they can do Attack Actions
-(and sometimes Create an Advantage Actions too!).
+(and sometimes *Create an Advantage* Actions too!).
