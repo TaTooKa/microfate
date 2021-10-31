@@ -46,6 +46,7 @@ highlighted, or in other words, not overshadowed by the more
 feats, resisting with stress as HP, etc.
 
 .. toctree::
+   :hidden:
 
    pages/whatschanged
    pages/aspects
