@@ -1,181 +1,187 @@
-
 <!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
-
-    <title>microFATE &#8212; microFATE 0.1 documentation</title>
-    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/alabaster.css" />
-    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
-    <script src="_static/jquery.js"></script>
-    <script src="_static/underscore.js"></script>
-    <script src="_static/doctools.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>microFATE &mdash; microFATE 0.1 documentation</title>
+      <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+    <script src="_static/js/theme.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
-    <link rel="search" title="Search" href="search.html" />
-   
-  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
-  
-  
-  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+    <link rel="search" title="Search" href="search.html" /> 
+</head>
 
-  </head><body>
-  
-
-    <div class="document">
-      <div class="documentwrapper">
-        <div class="bodywrapper">
-          
-
-          <div class="body" role="main">
-            
-  <div class="contents topic" id="table-of-contents">
-<p class="topic-title">Table of Contents</p>
-<ul class="simple">
-<li><p><a class="reference internal" href="#microfate" id="id42">microFATE</a></p>
-<ul>
-<li><p><a class="reference internal" href="#why-does-this-exist" id="id43">Why does this exist?</a></p></li>
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="#" class="icon icon-home"> microFATE
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <!-- Local TOC -->
+              <div class="local-toc"><ul>
+<li><a class="reference internal" href="#">microFATE</a><ul>
+<li><a class="reference internal" href="#why-does-this-exist">Why does this exist?</a></li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#no-skills-or-approaches" id="id44">No skills or Approaches</a></p>
-<ul>
-<li><p><a class="reference internal" href="#aspects" id="id45">Aspects</a></p>
-<ul>
-<li><p><a class="reference internal" href="#game-and-scenario-aspects" id="id46">Game and Scenario Aspects</a></p></li>
-<li><p><a class="reference internal" href="#true-immunity-and-insta-kill-attacks" id="id47">True Immunity and Insta-kill Attacks</a></p></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p><a class="reference internal" href="#no-stress-boxes-only-consequences" id="id48">No Stress boxes, only Consequences</a></p>
-<ul>
-<li><p><a class="reference internal" href="#how-consequences-work" id="id49">How Consequences work</a></p>
-<ul>
-<li><p><a class="reference internal" href="#removing-consequences" id="id50">Removing Consequences</a></p></li>
-</ul>
-</li>
-<li><p><a class="reference internal" href="#opposition-types" id="id51">Opposition Types</a></p>
-<ul>
-<li><p><a class="reference internal" href="#minions" id="id52">Minions</a></p></li>
-<li><p><a class="reference internal" href="#menaces" id="id53">Menaces</a></p></li>
-<li><p><a class="reference internal" href="#nemesis" id="id54">Nemesis</a></p></li>
-<li><p><a class="reference internal" href="#hazards-and-traps" id="id55">Hazards and Traps</a></p></li>
+<li><a class="reference internal" href="#no-skills-or-approaches">No skills or Approaches</a><ul>
+<li><a class="reference internal" href="#aspects">Aspects</a><ul>
+<li><a class="reference internal" href="#game-and-scenario-aspects">Game and Scenario Aspects</a></li>
+<li><a class="reference internal" href="#true-immunity-and-insta-kill-attacks">True Immunity and Insta-kill Attacks</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#actions" id="id56">Actions</a></p>
-<ul>
-<li><p><a class="reference internal" href="#action-outcomes" id="id57">Action Outcomes</a></p>
-<ul>
-<li><p><a class="reference internal" href="#fail" id="id58">Fail</a></p></li>
-<li><p><a class="reference internal" href="#succeed" id="id59">Succeed</a></p></li>
-<li><p><a class="reference internal" href="#exceed" id="id60">Exceed</a></p></li>
+<li><a class="reference internal" href="#no-stress-boxes-only-consequences">No Stress boxes, only Consequences</a><ul>
+<li><a class="reference internal" href="#how-consequences-work">How Consequences work</a><ul>
+<li><a class="reference internal" href="#removing-consequences">Removing Consequences</a></li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#action-types" id="id61">Action Types</a></p>
-<ul>
-<li><p><a class="reference internal" href="#overcome" id="id62">Overcome</a></p></li>
-<li><p><a class="reference internal" href="#create-an-advantage" id="id63">Create an Advantage</a></p></li>
-<li><p><a class="reference internal" href="#attack" id="id64">Attack</a></p></li>
-<li><p><a class="reference internal" href="#defend" id="id65">Defend</a></p></li>
+<li><a class="reference internal" href="#opposition-types">Opposition Types</a><ul>
+<li><a class="reference internal" href="#minions">Minions</a></li>
+<li><a class="reference internal" href="#menaces">Menaces</a></li>
+<li><a class="reference internal" href="#nemesis">Nemesis</a></li>
+<li><a class="reference internal" href="#hazards-and-traps">Hazards and Traps</a></li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#difficulty" id="id66">Difficulty</a></p></li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#fate-points" id="id67">Fate Points</a></p>
-<ul>
-<li><p><a class="reference internal" href="#using-fate-points" id="id68">Using Fate Points</a></p></li>
+<li><a class="reference internal" href="#actions">Actions</a><ul>
+<li><a class="reference internal" href="#action-outcomes">Action Outcomes</a><ul>
+<li><a class="reference internal" href="#fail">Fail</a></li>
+<li><a class="reference internal" href="#succeed">Succeed</a></li>
+<li><a class="reference internal" href="#exceed">Exceed</a></li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#conflicts" id="id69">Conflicts</a></p>
-<ul>
-<li><p><a class="reference internal" href="#objectives-by-side" id="id70">Objectives by side</a></p></li>
-<li><p><a class="reference internal" href="#turn-order" id="id71">Turn Order</a></p></li>
-<li><p><a class="reference internal" href="#conceding-a-conflict" id="id72">Conceding a Conflict</a></p></li>
-<li><p><a class="reference internal" href="#zones" id="id73">Zones</a></p></li>
-<li><p><a class="reference internal" href="#barriers" id="id74">Barriers</a></p></li>
+<li><a class="reference internal" href="#action-types">Action Types</a><ul>
+<li><a class="reference internal" href="#overcome">Overcome</a></li>
+<li><a class="reference internal" href="#create-an-advantage">Create an Advantage</a></li>
+<li><a class="reference internal" href="#attack">Attack</a></li>
+<li><a class="reference internal" href="#defend">Defend</a></li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#challenges" id="id75">Challenges</a></p>
-<ul>
-<li><p><a class="reference internal" href="#trials-challenge" id="id76">Trials Challenge</a></p></li>
-<li><p><a class="reference internal" href="#doom-clock-challenge" id="id77">Doom Clock Challenge</a></p></li>
-<li><p><a class="reference internal" href="#tug-of-war-challenge" id="id78">Tug-Of-War Challenge</a></p></li>
+<li><a class="reference internal" href="#difficulty">Difficulty</a></li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#advancement" id="id79">Advancement</a></p>
-<ul>
-<li><p><a class="reference internal" href="#gaining-new-aspects-as-debt" id="id80">Gaining new Aspects as “debt”</a></p></li>
+<li><a class="reference internal" href="#fate-points">Fate Points</a><ul>
+<li><a class="reference internal" href="#using-fate-points">Using Fate Points</a></li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#stunts" id="id81">Stunts</a></p>
-<ul>
-<li><p><a class="reference internal" href="#stunt-templates" id="id82">Stunt templates</a></p></li>
-<li><p><a class="reference internal" href="#stunt-examples" id="id83">Stunt Examples</a></p>
-<ul>
-<li><p><a class="reference internal" href="#super-powers" id="id84">Super powers</a></p>
-<ul>
-<li><p><a class="reference internal" href="#regeneration" id="id85">Regeneration</a></p></li>
-<li><p><a class="reference internal" href="#super-resistance" id="id86">Super Resistance</a></p></li>
+<li><a class="reference internal" href="#conflicts">Conflicts</a><ul>
+<li><a class="reference internal" href="#objectives-by-side">Objectives by side</a></li>
+<li><a class="reference internal" href="#turn-order">Turn Order</a></li>
+<li><a class="reference internal" href="#conceding-a-conflict">Conceding a Conflict</a></li>
+<li><a class="reference internal" href="#zones">Zones</a></li>
+<li><a class="reference internal" href="#barriers">Barriers</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#challenges">Challenges</a><ul>
+<li><a class="reference internal" href="#trials-challenge">Trials Challenge</a></li>
+<li><a class="reference internal" href="#doom-clock-challenge">Doom Clock Challenge</a></li>
+<li><a class="reference internal" href="#tug-of-war-challenge">Tug-Of-War Challenge</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#advancement">Advancement</a><ul>
+<li><a class="reference internal" href="#gaining-new-aspects-as-debt">Gaining new Aspects as “debt”</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#stunts">Stunts</a><ul>
+<li><a class="reference internal" href="#stunt-templates">Stunt templates</a></li>
+<li><a class="reference internal" href="#stunt-examples">Stunt Examples</a><ul>
+<li><a class="reference internal" href="#super-powers">Super powers</a><ul>
+<li><a class="reference internal" href="#regeneration">Regeneration</a></li>
+<li><a class="reference internal" href="#super-resistance">Super Resistance</a></li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#hardcoded-aspect-types" id="id87">Hardcoded Aspect Types</a></p></li>
-<li><p><a class="reference internal" href="#aspects-and-free-invokes" id="id88">Aspects and Free Invokes</a></p>
-<ul>
-<li><p><a class="reference internal" href="#how-to-track-free-invokes" id="id89">How to track Free Invokes</a></p></li>
+<li><a class="reference internal" href="#hardcoded-aspect-types">Hardcoded Aspect Types</a></li>
+<li><a class="reference internal" href="#aspects-and-free-invokes">Aspects and Free Invokes</a><ul>
+<li><a class="reference internal" href="#how-to-track-free-invokes">How to track Free Invokes</a></li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#extras" id="id90">Extras</a></p>
-<ul>
-<li><p><a class="reference internal" href="#colors-of-magic" id="id91">Colors of Magic</a></p>
-<ul>
-<li><p><a class="reference internal" href="#using-magic" id="id92">Using Magic</a></p>
-<ul>
-<li><p><a class="reference internal" href="#sorcery" id="id93">Sorcery</a></p></li>
-<li><p><a class="reference internal" href="#channeling" id="id94">Channeling</a></p></li>
-<li><p><a class="reference internal" href="#enchantments" id="id95">Enchantments</a></p></li>
-<li><p><a class="reference internal" href="#summoning" id="id96">Summoning</a></p></li>
+<li><a class="reference internal" href="#extras">Extras</a><ul>
+<li><a class="reference internal" href="#colors-of-magic">Colors of Magic</a><ul>
+<li><a class="reference internal" href="#using-magic">Using Magic</a><ul>
+<li><a class="reference internal" href="#sorcery">Sorcery</a></li>
+<li><a class="reference internal" href="#channeling">Channeling</a></li>
+<li><a class="reference internal" href="#enchantments">Enchantments</a></li>
+<li><a class="reference internal" href="#summoning">Summoning</a></li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#magical-limitations" id="id97">Magical Limitations</a></p></li>
-<li><p><a class="reference internal" href="#rituals" id="id98">Rituals</a></p></li>
-<li><p><a class="reference internal" href="#the-five-colors-of-magic" id="id99">The Five Colors of Magic</a></p>
-<ul>
-<li><p><a class="reference internal" href="#white" id="id100">White</a></p></li>
-<li><p><a class="reference internal" href="#blue" id="id101">Blue</a></p></li>
-<li><p><a class="reference internal" href="#black" id="id102">Black</a></p></li>
-<li><p><a class="reference internal" href="#red" id="id103">Red</a></p></li>
-<li><p><a class="reference internal" href="#green" id="id104">Green</a></p></li>
+<li><a class="reference internal" href="#magical-limitations">Magical Limitations</a></li>
+<li><a class="reference internal" href="#rituals">Rituals</a></li>
+<li><a class="reference internal" href="#the-five-colors-of-magic">The Five Colors of Magic</a><ul>
+<li><a class="reference internal" href="#white">White</a></li>
+<li><a class="reference internal" href="#blue">Blue</a></li>
+<li><a class="reference internal" href="#black">Black</a></li>
+<li><a class="reference internal" href="#red">Red</a></li>
+<li><a class="reference internal" href="#green">Green</a></li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#mana-burn" id="id105">Mana Burn</a></p></li>
-<li><p><a class="reference internal" href="#moxes" id="id106">Moxes</a></p></li>
-<li><p><a class="reference internal" href="#how-does-the-system-work" id="id107">How does the system work?</a></p></li>
-<li><p><a class="reference internal" href="#common-examples-and-use-cases" id="id108">Common examples and use-cases</a></p></li>
+<li><a class="reference internal" href="#mana-burn">Mana Burn</a></li>
+<li><a class="reference internal" href="#moxes">Moxes</a></li>
+<li><a class="reference internal" href="#how-does-the-system-work">How does the system work?</a></li>
+<li><a class="reference internal" href="#common-examples-and-use-cases">Common examples and use-cases</a></li>
 </ul>
 </li>
-<li><p><a class="reference internal" href="#strategic-crunch" id="id109">Strategic Crunch</a></p></li>
+<li><a class="reference internal" href="#strategic-crunch">Strategic Crunch</a></li>
 </ul>
 </li>
 </ul>
 </div>
-<section id="microfate">
-<h1><a class="toc-backref" href="#id42">microFATE</a><a class="headerlink" href="#microfate" title="Permalink to this headline">¶</a></h1>
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="#">microFATE</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="#" class="icon icon-home"></a> &raquo;</li>
+      <li>microFATE</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/index.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="microfate">
+<h1>microFATE<a class="headerlink" href="#microfate" title="Permalink to this headline"></a></h1>
 <p>Basically Fate Core but stripped to the minimum, while attempting more
 weight to give Aspects, Consequences and CaA Actions.</p>
 <p>This document assumes familiarity with Fate Core, and will only address
 changes to the system mechanics, or note specific things that need to be
 clarified.</p>
 <section id="why-does-this-exist">
-<h2><a class="toc-backref" href="#id43">Why does this exist?</a><a class="headerlink" href="#why-does-this-exist" title="Permalink to this headline">¶</a></h2>
+<h2>Why does this exist?<a class="headerlink" href="#why-does-this-exist" title="Permalink to this headline"></a></h2>
 <p>microFATE attempts to reduce the Fate RPG philosophies to its minimum
 and most pure. That is: Aspects. To tell a collaborative story, while
 still maintaining the mechanics that make it a game and not an improv
@@ -202,7 +208,7 @@ feats, resisting with stress as HP, etc.</p>
 </section>
 </section>
 <section id="no-skills-or-approaches">
-<h1><a class="toc-backref" href="#id44">No skills or Approaches</a><a class="headerlink" href="#no-skills-or-approaches" title="Permalink to this headline">¶</a></h1>
+<h1>No skills or Approaches<a class="headerlink" href="#no-skills-or-approaches" title="Permalink to this headline"></a></h1>
 <p>In microFATE your Character only has Aspects and Consequences.</p>
 <p>When you do an Action, you roll at +0 by default.</p>
 <p>If you invoke an Aspect as part of your Action, you gain +2 as usual,
@@ -212,7 +218,7 @@ a Fate Point and it doesn’t expend a free invoke).</p>
 the usual cost (a Fate Point or the expenditure of a free invoke if the
 Aspect had those).</p>
 <section id="aspects">
-<h2><a class="toc-backref" href="#id45">Aspects</a><a class="headerlink" href="#aspects" title="Permalink to this headline">¶</a></h2>
+<h2>Aspects<a class="headerlink" href="#aspects" title="Permalink to this headline"></a></h2>
 <p>Starting Player Characters have 5 Aspects. Their types can vary from
 game to game, but usually they are:</p>
 <ul class="simple">
@@ -226,14 +232,14 @@ game to game, but usually they are:</p>
 Trouble defined. The others can be defined as you play your first
 sessions.</p>
 <section id="game-and-scenario-aspects">
-<h3><a class="toc-backref" href="#id46">Game and Scenario Aspects</a><a class="headerlink" href="#game-and-scenario-aspects" title="Permalink to this headline">¶</a></h3>
+<h3>Game and Scenario Aspects<a class="headerlink" href="#game-and-scenario-aspects" title="Permalink to this headline"></a></h3>
 <p>It is recommended that the group creates Aspects for the whole game or
 campaign, and maybe for the scenario or current conflict as well. Use it
 to define the genre and setting, and to enforce it by invoking it or
 compelling characters with it.</p>
 </section>
 <section id="true-immunity-and-insta-kill-attacks">
-<h3><a class="toc-backref" href="#id47">True Immunity and Insta-kill Attacks</a><a class="headerlink" href="#true-immunity-and-insta-kill-attacks" title="Permalink to this headline">¶</a></h3>
+<h3>True Immunity and Insta-kill Attacks<a class="headerlink" href="#true-immunity-and-insta-kill-attacks" title="Permalink to this headline"></a></h3>
 <p>Because <em>Aspects are True</em>, depending on the wording, there are cases in
 which they can give what is perceived as total immunity against certain
 sources. For instance, Aspects like <em>Man of Steel</em>, <em>Godlike
@@ -280,7 +286,7 @@ Challenge you are KO’d.</p>
 </section>
 </section>
 <section id="no-stress-boxes-only-consequences">
-<h1><a class="toc-backref" href="#id48">No Stress boxes, only Consequences</a><a class="headerlink" href="#no-stress-boxes-only-consequences" title="Permalink to this headline">¶</a></h1>
+<h1>No Stress boxes, only Consequences<a class="headerlink" href="#no-stress-boxes-only-consequences" title="Permalink to this headline"></a></h1>
 <p>In microFATE there are no Stress boxes.</p>
 <p>Player Characters can have 3 Consequences (1 mild, 1 moderate, 1 severe)
 before being taken out.</p>
@@ -288,7 +294,7 @@ before being taken out.</p>
 different amounts (“slots”) of Consequences, depending on their
 “narrative resistance”.</p>
 <section id="how-consequences-work">
-<h2><a class="toc-backref" href="#id49">How Consequences work</a><a class="headerlink" href="#how-consequences-work" title="Permalink to this headline">¶</a></h2>
+<h2>How Consequences work<a class="headerlink" href="#how-consequences-work" title="Permalink to this headline"></a></h2>
 <p>When a character does an Attack Action, instead of dealing Stress, they
 deal Consequences to the opponent. See Action Outcomes for Consequence
 severity depending on the result of your roll.</p>
@@ -300,7 +306,7 @@ required severity, they are automatically taken out.</p>
 <p>Keep in mind that Consequences always come with a free invoke for the
 side of whoever applied that Consequence on your Character.</p>
 <section id="removing-consequences">
-<h3><a class="toc-backref" href="#id50">Removing Consequences</a><a class="headerlink" href="#removing-consequences" title="Permalink to this headline">¶</a></h3>
+<h3>Removing Consequences<a class="headerlink" href="#removing-consequences" title="Permalink to this headline"></a></h3>
 <p>Consequences have to be treated before being removed (unless the fiction
 makes them obsolete in some way, but that’s unlikely).</p>
 <p>If you don’t do anything about them, they could just stay as a negative
@@ -325,19 +331,19 @@ treatment to clear.</p></li>
 </section>
 </section>
 <section id="opposition-types">
-<h2><a class="toc-backref" href="#id51">Opposition Types</a><a class="headerlink" href="#opposition-types" title="Permalink to this headline">¶</a></h2>
+<h2>Opposition Types<a class="headerlink" href="#opposition-types" title="Permalink to this headline"></a></h2>
 <section id="minions">
-<h3><a class="toc-backref" href="#id52">Minions</a><a class="headerlink" href="#minions" title="Permalink to this headline">¶</a></h3>
+<h3>Minions<a class="headerlink" href="#minions" title="Permalink to this headline"></a></h3>
 <p><strong>A Minion doesn’t have Consequence slots</strong>. They are nameless henchmen or lesser adversaries. Once successfully
 attacked, they are taken out.</p>
 </section>
 <section id="menaces">
-<h3><a class="toc-backref" href="#id53">Menaces</a><a class="headerlink" href="#menaces" title="Permalink to this headline">¶</a></h3>
+<h3>Menaces<a class="headerlink" href="#menaces" title="Permalink to this headline"></a></h3>
 <p><strong>A Menace has 1 mild and 1 moderate Consequence slots</strong>. Usually, any named NPC in a Conflict is at least a Menace. A group of
 henchmen could also be considered as a single Menace.</p>
 </section>
 <section id="nemesis">
-<h3><a class="toc-backref" href="#id54">Nemesis</a><a class="headerlink" href="#nemesis" title="Permalink to this headline">¶</a></h3>
+<h3>Nemesis<a class="headerlink" href="#nemesis" title="Permalink to this headline"></a></h3>
 <p><strong>A Nemesis has 1 mild, 1 moderate and 1 severe Consequence slots</strong>,
 effectively putting them at the same level as Player Characters.</p>
 <p>A Nemesis is usually an important adversary that can give the player
@@ -349,7 +355,7 @@ affected or harmed by something, it doesn’t matter how hard the player
 Characters attack with that source, it won’t make a dent.</p>
 </section>
 <section id="hazards-and-traps">
-<h3><a class="toc-backref" href="#id55">Hazards and Traps</a><a class="headerlink" href="#hazards-and-traps" title="Permalink to this headline">¶</a></h3>
+<h3>Hazards and Traps<a class="headerlink" href="#hazards-and-traps" title="Permalink to this headline"></a></h3>
 <p>Hazards and Traps are usually not sentient obstacles, but could also be
 “taken out” of the Conflict with attacks (If the GM wants to treat them
 as regular obstacles but with more narrative weight, consider making
@@ -372,28 +378,28 @@ get a turn just like other adversary NPC, and they can do Attack Actions
 </section>
 </section>
 <section id="actions">
-<h1><a class="toc-backref" href="#id56">Actions</a><a class="headerlink" href="#actions" title="Permalink to this headline">¶</a></h1>
+<h1>Actions<a class="headerlink" href="#actions" title="Permalink to this headline"></a></h1>
 <section id="action-outcomes">
-<h2><a class="toc-backref" href="#id57">Action Outcomes</a><a class="headerlink" href="#action-outcomes" title="Permalink to this headline">¶</a></h2>
+<h2>Action Outcomes<a class="headerlink" href="#action-outcomes" title="Permalink to this headline"></a></h2>
 <section id="fail">
-<h3><a class="toc-backref" href="#id58">Fail</a><a class="headerlink" href="#fail" title="Permalink to this headline">¶</a></h3>
+<h3>Fail<a class="headerlink" href="#fail" title="Permalink to this headline"></a></h3>
 <p>If you roll lower than your opposition, you fail.</p>
 </section>
 <section id="succeed">
-<h3><a class="toc-backref" href="#id59">Succeed</a><a class="headerlink" href="#succeed" title="Permalink to this headline">¶</a></h3>
+<h3>Succeed<a class="headerlink" href="#succeed" title="Permalink to this headline"></a></h3>
 <p>If you roll equal to or higher than your opposition by 1 or 2 shifts,
 you succeed.</p>
 </section>
 <section id="exceed">
-<h3><a class="toc-backref" href="#id60">Exceed</a><a class="headerlink" href="#exceed" title="Permalink to this headline">¶</a></h3>
+<h3>Exceed<a class="headerlink" href="#exceed" title="Permalink to this headline"></a></h3>
 <p>If you roll higher than your opposition by 3 or more shifts, you succeed
 with style (a Critical hit!).</p>
 </section>
 </section>
 <section id="action-types">
-<h2><a class="toc-backref" href="#id61">Action Types</a><a class="headerlink" href="#action-types" title="Permalink to this headline">¶</a></h2>
+<h2>Action Types<a class="headerlink" href="#action-types" title="Permalink to this headline"></a></h2>
 <section id="overcome">
-<h3><a class="toc-backref" href="#id62">Overcome</a><a class="headerlink" href="#overcome" title="Permalink to this headline">¶</a></h3>
+<h3>Overcome<a class="headerlink" href="#overcome" title="Permalink to this headline"></a></h3>
 <p><em>When your objective is to overcome an obstacle that is in your way…</em></p>
 <p>If you <strong>Fail</strong>: You either simply fail, or you succeed at a serious
 cost.</p>
@@ -401,7 +407,7 @@ cost.</p>
 <p>If you <strong>Exceed</strong>: You succeed and create a Boost.</p>
 </section>
 <section id="create-an-advantage">
-<h3><a class="toc-backref" href="#id63">Create an Advantage</a><a class="headerlink" href="#create-an-advantage" title="Permalink to this headline">¶</a></h3>
+<h3>Create an Advantage<a class="headerlink" href="#create-an-advantage" title="Permalink to this headline"></a></h3>
 <p><em>When your objective is to do something that benefits you or your
 allies, hinders an opponent, or changes the situation….</em></p>
 <p>If you <strong>Fail</strong>: Don’t create/alter an Aspect, or create/alter it but an
@@ -412,7 +418,7 @@ it.</p>
 on it.</p>
 </section>
 <section id="attack">
-<h3><a class="toc-backref" href="#id64">Attack</a><a class="headerlink" href="#attack" title="Permalink to this headline">¶</a></h3>
+<h3>Attack<a class="headerlink" href="#attack" title="Permalink to this headline"></a></h3>
 <p><em>When your action’s outcome is to take out the opposition or place
 Consequences on them…</em></p>
 <p>If you <strong>Fail</strong>: You don’t place any Consequences or take out your
@@ -421,7 +427,7 @@ opponent.</p>
 <p>If you <strong>Exceed</strong>: You inflict a Moderate Consequence on your opponent.</p>
 </section>
 <section id="defend">
-<h3><a class="toc-backref" href="#id65">Defend</a><a class="headerlink" href="#defend" title="Permalink to this headline">¶</a></h3>
+<h3>Defend<a class="headerlink" href="#defend" title="Permalink to this headline"></a></h3>
 <p><em>When you attempt to avoid an Attack or prevent someone from Creating an
 Advantage against you…</em></p>
 <p>If you <strong>Fail</strong>: You take a Consequence related to the Attack, get taken
@@ -433,7 +439,7 @@ on you, and also create a Boost.</p>
 </section>
 </section>
 <section id="difficulty">
-<h2><a class="toc-backref" href="#id66">Difficulty</a><a class="headerlink" href="#difficulty" title="Permalink to this headline">¶</a></h2>
+<h2>Difficulty<a class="headerlink" href="#difficulty" title="Permalink to this headline"></a></h2>
 <p>Difficulty for an Action roll can be either fixed or opposed.</p>
 <p>When you attempt something against the environment or an entity that
 cannot perform an action by themselves, it is normally a fixed
@@ -446,7 +452,7 @@ attacker (or the initiating actor).</p>
 </section>
 </section>
 <section id="fate-points">
-<h1><a class="toc-backref" href="#id67">Fate Points</a><a class="headerlink" href="#fate-points" title="Permalink to this headline">¶</a></h1>
+<h1>Fate Points<a class="headerlink" href="#fate-points" title="Permalink to this headline"></a></h1>
 <p>Each Player Character starts the Session with 3 Fate Points. The GM gets
 a number of Fate Points equal to the number of Player Characters x 3
 (this means that you need 6 Fate Point tokens per player).</p>
@@ -477,7 +483,7 @@ passing Fate Points between themselves. This way, in microFATE the Fate
 Point Pool functions as a stronger equalizer in terms of tension and
 comeback potential than in Fate Core.</p>
 <section id="using-fate-points">
-<h2><a class="toc-backref" href="#id68">Using Fate Points</a><a class="headerlink" href="#using-fate-points" title="Permalink to this headline">¶</a></h2>
+<h2>Using Fate Points<a class="headerlink" href="#using-fate-points" title="Permalink to this headline"></a></h2>
 <p>Very similar to Fate Core, players can use Fate Points to:</p>
 <ul class="simple">
 <li><p>Declare a minor detail or fact (approved or vetoed by the GM)</p></li>
@@ -491,13 +497,13 @@ that player</p></li>
 </section>
 </section>
 <section id="conflicts">
-<h1><a class="toc-backref" href="#id69">Conflicts</a><a class="headerlink" href="#conflicts" title="Permalink to this headline">¶</a></h1>
+<h1>Conflicts<a class="headerlink" href="#conflicts" title="Permalink to this headline"></a></h1>
 <p>A Conflict is a type of Scene in which the PCs are pitted against one or
 more opponents or teams of antagonists, their objectives are opposed or
 collide somehow, and there is a possibility of forcefully “taking
 enemies out of the action”.</p>
 <section id="objectives-by-side">
-<h2><a class="toc-backref" href="#id70">Objectives by side</a><a class="headerlink" href="#objectives-by-side" title="Permalink to this headline">¶</a></h2>
+<h2>Objectives by side<a class="headerlink" href="#objectives-by-side" title="Permalink to this headline"></a></h2>
 <p>Before the Conflict starts, both players and the GM must agree on the
 objective of the Conflict for all sides. Writing it down is recommended.
 Usually the Player Characters want to achieve something and there is
@@ -507,7 +513,7 @@ Characters’ objective.</p>
 Concessions are based on the clarity of the objectives from both sides.</p>
 </section>
 <section id="turn-order">
-<h2><a class="toc-backref" href="#id71">Turn Order</a><a class="headerlink" href="#turn-order" title="Permalink to this headline">¶</a></h2>
+<h2>Turn Order<a class="headerlink" href="#turn-order" title="Permalink to this headline"></a></h2>
 <p>When you need to determine Turn Order (mostly during Conflicts), have
 everyone roll normally (+0), and add bonuses with Aspects as usual
 (first invoked one is free). Highest goes first, ties act simultaneously
@@ -522,7 +528,7 @@ queue (allies or enemies!). Repeat that process until all of the
 involved actors in the Conflict had their turn.</p>
 </section>
 <section id="conceding-a-conflict">
-<h2><a class="toc-backref" href="#id72">Conceding a Conflict</a><a class="headerlink" href="#conceding-a-conflict" title="Permalink to this headline">¶</a></h2>
+<h2>Conceding a Conflict<a class="headerlink" href="#conceding-a-conflict" title="Permalink to this headline"></a></h2>
 <p>Concessions work just like in Fate Core: if you concede a Conflict, you
 don’t gain what you were looking for, but you don’t get taken out.
 Player Characters gain 1 Fate Point plus another one per each
@@ -541,26 +547,26 @@ much of a stretch, the opposing side should accept it in benefit of a
 smooth narrative.</p>
 </section>
 <section id="zones">
-<h2><a class="toc-backref" href="#id73">Zones</a><a class="headerlink" href="#zones" title="Permalink to this headline">¶</a></h2>
+<h2>Zones<a class="headerlink" href="#zones" title="Permalink to this headline"></a></h2>
 <p>TODO</p>
 <p>Moving to one adjacent Zone is free; moving more is an Overcome Action</p>
 <p>Pushing someone to another adjacent zone is an opposed Overcome action</p>
 <p>Each Zone must have at least one Aspect</p>
 </section>
 <section id="barriers">
-<h2><a class="toc-backref" href="#id74">Barriers</a><a class="headerlink" href="#barriers" title="Permalink to this headline">¶</a></h2>
+<h2>Barriers<a class="headerlink" href="#barriers" title="Permalink to this headline"></a></h2>
 <p>TODO</p>
 <p>A Barrier is an Aspect between two or more zones that needs to be
 Overcome to traverse</p>
 </section>
 </section>
 <section id="challenges">
-<h1><a class="toc-backref" href="#id75">Challenges</a><a class="headerlink" href="#challenges" title="Permalink to this headline">¶</a></h1>
+<h1>Challenges<a class="headerlink" href="#challenges" title="Permalink to this headline"></a></h1>
 <p>When the Player Characters want to achieve something complex that cannot
 be resolved with a single roll, have them do a Challenge: a series of
 Actions tied together to accomplish an epic result.</p>
 <section id="trials-challenge">
-<h2><a class="toc-backref" href="#id76">Trials Challenge</a><a class="headerlink" href="#trials-challenge" title="Permalink to this headline">¶</a></h2>
+<h2>Trials Challenge<a class="headerlink" href="#trials-challenge" title="Permalink to this headline"></a></h2>
 <p>Set a high difficulty for the Challenge (10 or more). The Player
 Characters need to do a series of Create an Advantage or Overcome
 Actions (the Trials). Positive results (+1 or more) add up to the
@@ -573,7 +579,7 @@ defaults). If the Player Characters cannot achieve the target difficulty
 total after all Trial attempts are rolled, the Challenge fails.</p>
 </section>
 <section id="doom-clock-challenge">
-<h2><a class="toc-backref" href="#id77">Doom Clock Challenge</a><a class="headerlink" href="#doom-clock-challenge" title="Permalink to this headline">¶</a></h2>
+<h2>Doom Clock Challenge<a class="headerlink" href="#doom-clock-challenge" title="Permalink to this headline"></a></h2>
 <p>Doom Clock Challenges are very similar to Trial Challenges, with the
 difference that instead of defining a maximum number of Trials, the GM
 sets a time track, or “doom clock”.</p>
@@ -595,7 +601,7 @@ problems (while having to make the hard choice of being out of resources
 for the following encounters).</p>
 </section>
 <section id="tug-of-war-challenge">
-<h2><a class="toc-backref" href="#id78">Tug-Of-War Challenge</a><a class="headerlink" href="#tug-of-war-challenge" title="Permalink to this headline">¶</a></h2>
+<h2>Tug-Of-War Challenge<a class="headerlink" href="#tug-of-war-challenge" title="Permalink to this headline"></a></h2>
 <p>This Challenge type is ideal for two sides or teams competing against
 each other (Keep in mind that if violence arises, the scene must evolve
 into a Conflict. Attack actions are not allowed in Challenges). It is
@@ -622,7 +628,7 @@ losing or winning, respectively.</p>
 </section>
 </section>
 <section id="advancement">
-<h1><a class="toc-backref" href="#id79">Advancement</a><a class="headerlink" href="#advancement" title="Permalink to this headline">¶</a></h1>
+<h1>Advancement<a class="headerlink" href="#advancement" title="Permalink to this headline"></a></h1>
 <p>In microFATE, Characters advance by gaining new Aspects (and/or
 modifying existing ones). Advancement happens when the GM deems fit
 (normally after the Characters made some notable progress or finished an
@@ -634,7 +640,7 @@ modification of an old one must be justified narratively.</p>
 <p>During Advancement Characters can also remove a Severe Consequence that
 they had, provided it is already in a “healing state”.</p>
 <section id="gaining-new-aspects-as-debt">
-<h2><a class="toc-backref" href="#id80">Gaining new Aspects as “debt”</a><a class="headerlink" href="#gaining-new-aspects-as-debt" title="Permalink to this headline">¶</a></h2>
+<h2>Gaining new Aspects as “debt”<a class="headerlink" href="#gaining-new-aspects-as-debt" title="Permalink to this headline"></a></h2>
 <p>Sometimes the fiction requires that a Character gains a new Aspect (be
 it because they acquired an important item, a new trait or connection,
 or whatever that would be narratively important). In this case, the GM
@@ -646,7 +652,7 @@ most two) is granted “as debt” in this way.</p>
 </section>
 </section>
 <section id="stunts">
-<h1><a class="toc-backref" href="#id81">Stunts</a><a class="headerlink" href="#stunts" title="Permalink to this headline">¶</a></h1>
+<h1>Stunts<a class="headerlink" href="#stunts" title="Permalink to this headline"></a></h1>
 <p>(Optional rule)</p>
 <p>It is possible to expand microFATE with Stunts to give more depth to
 Character builds. By the nature of this hack, Stunts can’t refer to
@@ -661,7 +667,7 @@ pay for an invocation, hence it is important to make them more
 constrained (in specificity of a contextual situation) so that they
 don’t imbalance the main mechanic of Aspects.</p>
 <section id="stunt-templates">
-<h2><a class="toc-backref" href="#id82">Stunt templates</a><a class="headerlink" href="#stunt-templates" title="Permalink to this headline">¶</a></h2>
+<h2>Stunt templates<a class="headerlink" href="#stunt-templates" title="Permalink to this headline"></a></h2>
 <p>[Stunt Name]</p>
 <p>Gain +2 to [Action Type] when [specific or niche circumstance or
 context].</p>
@@ -670,11 +676,11 @@ context].</p>
 niche circumstance or context].</p>
 </section>
 <section id="stunt-examples">
-<h2><a class="toc-backref" href="#id83">Stunt Examples</a><a class="headerlink" href="#stunt-examples" title="Permalink to this headline">¶</a></h2>
+<h2>Stunt Examples<a class="headerlink" href="#stunt-examples" title="Permalink to this headline"></a></h2>
 <section id="super-powers">
-<h3><a class="toc-backref" href="#id84">Super powers</a><a class="headerlink" href="#super-powers" title="Permalink to this headline">¶</a></h3>
+<h3>Super powers<a class="headerlink" href="#super-powers" title="Permalink to this headline"></a></h3>
 <section id="regeneration">
-<h4><a class="toc-backref" href="#id85">Regeneration</a><a class="headerlink" href="#regeneration" title="Permalink to this headline">¶</a></h4>
+<h4>Regeneration<a class="headerlink" href="#regeneration" title="Permalink to this headline"></a></h4>
 <p>Take a turn to put a Consequence into its healing state without rolling.
 Consequences heal in a time span one level lower
 (Mild=Instant;Moderate=Scene;Severe=Session). Once per Session, you can
@@ -682,7 +688,7 @@ spend a Fate Point to remove a healing Consequence of any level
 instantly.</p>
 </section>
 <section id="super-resistance">
-<h4><a class="toc-backref" href="#id86">Super Resistance</a><a class="headerlink" href="#super-resistance" title="Permalink to this headline">¶</a></h4>
+<h4>Super Resistance<a class="headerlink" href="#super-resistance" title="Permalink to this headline"></a></h4>
 <p>Gain +2 to Defend when receiving physical damage. If the damage is from
 a weak or mundane source, ignore it altogether without even rolling.</p>
 </section>
@@ -690,7 +696,7 @@ a weak or mundane source, ignore it altogether without even rolling.</p>
 </section>
 </section>
 <section id="hardcoded-aspect-types">
-<h1><a class="toc-backref" href="#id87">Hardcoded Aspect Types</a><a class="headerlink" href="#hardcoded-aspect-types" title="Permalink to this headline">¶</a></h1>
+<h1>Hardcoded Aspect Types<a class="headerlink" href="#hardcoded-aspect-types" title="Permalink to this headline"></a></h1>
 <p>(optional rule)</p>
 <p>A good way to make Character Creation more interesting and give players
 something more to build upon (while limiting them to a specific genre)
@@ -723,7 +729,7 @@ choose which types to create from that list up to that max, but they
 cannot deviate from it. They must create one Aspect of each category.</p>
 </section>
 <section id="aspects-and-free-invokes">
-<h1><a class="toc-backref" href="#id88">Aspects and Free Invokes</a><a class="headerlink" href="#aspects-and-free-invokes" title="Permalink to this headline">¶</a></h1>
+<h1>Aspects and Free Invokes<a class="headerlink" href="#aspects-and-free-invokes" title="Permalink to this headline"></a></h1>
 <p>Aspects work just like in Fate Core. The new addition is that you can
 place Free Invokes on an Aspect your own Character has, which is useful
 if you want to stack multiple invokes but you don’t have enough Fate
@@ -732,7 +738,7 @@ the free invokes) but it will not require Fate Points. In the fiction
 this represents a character preparing or getting ready to do something
 big.</p>
 <section id="how-to-track-free-invokes">
-<h2><a class="toc-backref" href="#id89">How to track Free Invokes</a><a class="headerlink" href="#how-to-track-free-invokes" title="Permalink to this headline">¶</a></h2>
+<h2>How to track Free Invokes<a class="headerlink" href="#how-to-track-free-invokes" title="Permalink to this headline"></a></h2>
 <p>It is imperative that you keep track of the Free Invokes on Aspects by
 their team, since both Player Characters and the opposing team can have
 them (and they can’t use the invokes that belong to the other side!). A
@@ -746,9 +752,9 @@ free invocation.</p>
 </section>
 </section>
 <section id="extras">
-<h1><a class="toc-backref" href="#id90">Extras</a><a class="headerlink" href="#extras" title="Permalink to this headline">¶</a></h1>
+<h1>Extras<a class="headerlink" href="#extras" title="Permalink to this headline"></a></h1>
 <section id="colors-of-magic">
-<h2><a class="toc-backref" href="#id91">Colors of Magic</a><a class="headerlink" href="#colors-of-magic" title="Permalink to this headline">¶</a></h2>
+<h2>Colors of Magic<a class="headerlink" href="#colors-of-magic" title="Permalink to this headline"></a></h2>
 <p>Implementation of a magic system inspired by Magic: The Gathering.</p>
 <p>The player characters that are capable of using magic need to have an
 Aspect that reflects this permission. For example: <em>Famous Archmage</em>,
@@ -766,13 +772,13 @@ Mana color, you would be weak in its opposites (unless specified with
 another Aspect). This will probably make your actions with said Color
 much more difficult.</p>
 <section id="using-magic">
-<h3><a class="toc-backref" href="#id92">Using Magic</a><a class="headerlink" href="#using-magic" title="Permalink to this headline">¶</a></h3>
+<h3>Using Magic<a class="headerlink" href="#using-magic" title="Permalink to this headline"></a></h3>
 <p>Those Aspects previously mentioned give narrative permission for a mage
 to use magic with any of the 4 actions. Just describe the effect and
 roll against opposition or a difficulty set by the GM.</p>
 <p>Magical effects are differentiated in four broad categories:</p>
 <section id="sorcery">
-<h4><a class="toc-backref" href="#id93">Sorcery</a><a class="headerlink" href="#sorcery" title="Permalink to this headline">¶</a></h4>
+<h4>Sorcery<a class="headerlink" href="#sorcery" title="Permalink to this headline"></a></h4>
 <p>Sorcery spells are instantaneous and ephemeral, the kind you use to
 throw <em>Fireballs *(**Attack*</em>), shatter an <em>Enchantment
 *(**Overcome*</em>) or conjure a flashbang to <em>Disorient *a foe
@@ -781,7 +787,7 @@ availability of Mana of the required color in the area, the proposed
 spell effect, and its affinity with its Color concepts.</p>
 </section>
 <section id="channeling">
-<h4><a class="toc-backref" href="#id94">Channeling</a><a class="headerlink" href="#channeling" title="Permalink to this headline">¶</a></h4>
+<h4>Channeling<a class="headerlink" href="#channeling" title="Permalink to this headline"></a></h4>
 <p>Channeling is the process of tapping into a Mana pool to empower your
 spells. Basically you <strong>Create an Advantage</strong> by channeling the
 available Mana energies on the location (The GM might say that there is
@@ -798,7 +804,7 @@ in-game hours is recommended), and can apply Mana Burn (explained later
 in this chapter).</p>
 </section>
 <section id="enchantments">
-<h4><a class="toc-backref" href="#id95">Enchantments</a><a class="headerlink" href="#enchantments" title="Permalink to this headline">¶</a></h4>
+<h4>Enchantments<a class="headerlink" href="#enchantments" title="Permalink to this headline"></a></h4>
 <p>Enchantments are persistent effects (usually a whole Scene) that you
 cast when you <strong>Create an Advantage</strong>, and put an Aspect on a Zone, as a
 Barrier or on another Character. The difficulty might vary depending on
@@ -809,7 +815,7 @@ Enchantment can be dissipated at will by the caster. Others would have
 to <a href="#id1"><span class="problematic" id="id2">**</span></a>Overcome <a href="#id3"><span class="problematic" id="id4">**</span></a>with dispelling magic to eradicate it.</p>
 </section>
 <section id="summoning">
-<h4><a class="toc-backref" href="#id96">Summoning</a><a class="headerlink" href="#summoning" title="Permalink to this headline">¶</a></h4>
+<h4>Summoning<a class="headerlink" href="#summoning" title="Permalink to this headline"></a></h4>
 <p>You can summon a creature of your choice, provided it makes sense given
 your character’s Aspects, Mana color used, etc. You would need to
 <strong>Create an Advantage</strong>, creating an Aspect that represents your
@@ -828,7 +834,7 @@ you want to command more you lose your turn doing so).</p>
 </section>
 </section>
 <section id="magical-limitations">
-<h3><a class="toc-backref" href="#id97">Magical Limitations</a><a class="headerlink" href="#magical-limitations" title="Permalink to this headline">¶</a></h3>
+<h3>Magical Limitations<a class="headerlink" href="#magical-limitations" title="Permalink to this headline"></a></h3>
 <p>Players can invent any magical effect that they want when using Magic,
 but they are somewhat limited by different factors:</p>
 <ol class="arabic simple">
@@ -855,7 +861,7 @@ etc.</p></li>
 </ol>
 </section>
 <section id="rituals">
-<h3><a class="toc-backref" href="#id98">Rituals</a><a class="headerlink" href="#rituals" title="Permalink to this headline">¶</a></h3>
+<h3>Rituals<a class="headerlink" href="#rituals" title="Permalink to this headline"></a></h3>
 <p>When the difficulty of a spell is too high, the wizard(s) involved can
 attempt to cast it as a Ritual instead. A Ritual is basically a
 <a href="#id13"><span class="problematic" id="id14">**</span></a>Challenge <a href="#id15"><span class="problematic" id="id16">**</span></a>that requires multiple actions (gathering the correct
@@ -864,7 +870,7 @@ achieve the set difficulty. It also takes time to cast (hours, days or
 even weeks!), set by the GM, depending on the aforementioned factors.</p>
 </section>
 <section id="the-five-colors-of-magic">
-<h3><a class="toc-backref" href="#id99">The Five Colors of Magic</a><a class="headerlink" href="#the-five-colors-of-magic" title="Permalink to this headline">¶</a></h3>
+<h3>The Five Colors of Magic<a class="headerlink" href="#the-five-colors-of-magic" title="Permalink to this headline"></a></h3>
 <p>The following are guidelines for each Mana Color, and the examples given
 don’t necessarily cover anything that can be done with each, but players
 and GM can use them as reference when trying to come up with a different
@@ -877,11 +883,11 @@ necessary. (Back to top)(Next alert)&gt;&gt;&gt;&gt;&gt;</p>
 </p><figure class="align-default" id="id41">
 <img alt="image_tooltip" src="images/image1.png" />
 <figcaption>
-<p><span class="caption-text">alt_text</span><a class="headerlink" href="#id41" title="Permalink to this image">¶</a></p>
+<p><span class="caption-text">alt_text</span><a class="headerlink" href="#id41" title="Permalink to this image"></a></p>
 </figcaption>
 </figure>
 <section id="white">
-<h4><a class="toc-backref" href="#id100">White</a><a class="headerlink" href="#white" title="Permalink to this headline">¶</a></h4>
+<h4>White<a class="headerlink" href="#white" title="Permalink to this headline"></a></h4>
 <p><strong>Embodies</strong>: morality, order, peace and protection.</p>
 <p><strong>Strengths</strong>: healing and inspiring summoned creatures</p>
 <p><strong>Weaknesses</strong>: White’s nature is to seek peace, thus it generally can’t
@@ -897,7 +903,7 @@ difficulty)</p></li>
 <p><strong>Opposites</strong>: Red, Black</p>
 </section>
 <section id="blue">
-<h4><a class="toc-backref" href="#id101">Blue</a><a class="headerlink" href="#blue" title="Permalink to this headline">¶</a></h4>
+<h4>Blue<a class="headerlink" href="#blue" title="Permalink to this headline"></a></h4>
 <p><strong>Embodies</strong>: control, logic, omniscience, experimentation.</p>
 <p><strong>Strengths</strong>: illusions and countering other’s spells.</p>
 <p><strong>Weaknesses</strong>: Blue is all about being prepared and preventing things
@@ -914,7 +920,7 @@ zone as the caster).</p></li>
 <p><strong>Opposites</strong>: Red, Green</p>
 </section>
 <section id="black">
-<h4><a class="toc-backref" href="#id102">Black</a><a class="headerlink" href="#black" title="Permalink to this headline">¶</a></h4>
+<h4>Black<a class="headerlink" href="#black" title="Permalink to this headline"></a></h4>
 <p><strong>Embodies</strong>: death, decay, amorality and selfishness.</p>
 <p><strong>Strengths</strong>: harming living beings and being sneaky.</p>
 <p><strong>Weaknesses</strong>: Black magic generally only affects the living, thus it
@@ -928,7 +934,7 @@ generally can’t be used to harm things like machines and/or
 <p><strong>Opposites</strong>: White, Green</p>
 </section>
 <section id="red">
-<h4><a class="toc-backref" href="#id103">Red</a><a class="headerlink" href="#red" title="Permalink to this headline">¶</a></h4>
+<h4>Red<a class="headerlink" href="#red" title="Permalink to this headline"></a></h4>
 <p><strong>Embodies</strong>: impulse, passion, freedom and chaos.</p>
 <p><strong>Strengths</strong>: blowing stuff up, then blowing even more stuff up.</p>
 <p><strong>Weaknesses</strong>: has difficulty with things it can’t attack directly like
@@ -944,7 +950,7 @@ temporary Aspects with CaA)</p></li>
 <p><strong>Opposites</strong>: Blue, White</p>
 </section>
 <section id="green">
-<h4><a class="toc-backref" href="#id104">Green</a><a class="headerlink" href="#green" title="Permalink to this headline">¶</a></h4>
+<h4>Green<a class="headerlink" href="#green" title="Permalink to this headline"></a></h4>
 <p><strong>Embodies</strong>: nature, instinct, harmony and growth.</p>
 <p><strong>Strengths</strong>: buffing summoned creatures, removing “unnatural” things
 like <em>Enchantments</em>.</p>
@@ -961,7 +967,7 @@ Overcome or if it has Consequence slots - Attack)</p></li>
 </section>
 </section>
 <section id="mana-burn">
-<h3><a class="toc-backref" href="#id105">Mana Burn</a><a class="headerlink" href="#mana-burn" title="Permalink to this headline">¶</a></h3>
+<h3>Mana Burn<a class="headerlink" href="#mana-burn" title="Permalink to this headline"></a></h3>
 <p>The GM can compel a Mana Channeling Aspect on a character if too much
 time passes and it goes unused. The concentrated Mana deals an <a href="#id25"><span class="problematic" id="id26">**</span></a>Attack
 <a href="#id27"><span class="problematic" id="id28">**</span></a>Action at +2 against the character. If they fail a <a href="#id29"><span class="problematic" id="id30">**</span></a>Defend
@@ -972,7 +978,7 @@ it with an <a href="#id37"><span class="problematic" id="id38">**</span></a>Over
 against +0, to avoid the impending Mana Burn.</p>
 </section>
 <section id="moxes">
-<h3><a class="toc-backref" href="#id106">Moxes</a><a class="headerlink" href="#moxes" title="Permalink to this headline">¶</a></h3>
+<h3>Moxes<a class="headerlink" href="#moxes" title="Permalink to this headline"></a></h3>
 <p>A Mox is a talisman or piece of jewelry that can store Mana. In game
 terms, a character can either acquire or craft a Mox of a specific Mana
 color (or one of the rarest multicolored ones), represented by an Aspect
@@ -989,7 +995,7 @@ every way and give a very big narrative permission in a world with this
 type of Magic system.</p>
 </section>
 <section id="how-does-the-system-work">
-<h3><a class="toc-backref" href="#id107">How does the system work?</a><a class="headerlink" href="#how-does-the-system-work" title="Permalink to this headline">¶</a></h3>
+<h3>How does the system work?<a class="headerlink" href="#how-does-the-system-work" title="Permalink to this headline"></a></h3>
 <p>Unless spellcaster characters have an Aspect that explicitly forbids
 using a specific Mana Color, they can attempt to cast any type of spell
 they desire.</p>
@@ -1022,7 +1028,7 @@ accordingly before casting a spell, or get creative when deciding what
 magical effect to cast.</p>
 </section>
 <section id="common-examples-and-use-cases">
-<h3><a class="toc-backref" href="#id108">Common examples and use-cases</a><a class="headerlink" href="#common-examples-and-use-cases" title="Permalink to this headline">¶</a></h3>
+<h3>Common examples and use-cases<a class="headerlink" href="#common-examples-and-use-cases" title="Permalink to this headline"></a></h3>
 <p><strong>Magic Missile</strong>: Sorcery; just do an Attack opposed by target’s
 Defense or passive opposition +0.</p>
 <p><strong>Firewall</strong>: Enchantment; Create an Advantage at passive difficulty +2
@@ -1036,7 +1042,7 @@ Immunity</em>, opposition +4 or more at GM discretion).</p>
 </section>
 </section>
 <section id="strategic-crunch">
-<h2><a class="toc-backref" href="#id109">Strategic Crunch</a><a class="headerlink" href="#strategic-crunch" title="Permalink to this headline">¶</a></h2>
+<h2>Strategic Crunch<a class="headerlink" href="#strategic-crunch" title="Permalink to this headline"></a></h2>
 <p>TODO (team weight, zone pushing, etc)</p>
 <ul class="simple">
 <li><p>Team weight (charge! Doubles your weight and can Push)</p></li>
@@ -1051,66 +1057,31 @@ Immunity</em>, opposition +4 or more at GM discretion).</p>
 </section>
 
 
+           </div>
           </div>
-          
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2021, TaTooKa.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
         </div>
       </div>
-      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
-        <div class="sphinxsidebarwrapper">
-<h1 class="logo"><a href="#">microFATE</a></h1>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
 
-
-
-
-
-
-
-
-<h3>Navigation</h3>
-
-<div class="relations">
-<h3>Related Topics</h3>
-<ul>
-  <li><a href="#">Documentation overview</a><ul>
-  </ul></li>
-</ul>
-</div>
-<div id="searchbox" style="display: none" role="search">
-  <h3 id="searchlabel">Quick search</h3>
-    <div class="searchformwrapper">
-    <form class="search" action="search.html" method="get">
-      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
-      <input type="submit" value="Go" />
-    </form>
-    </div>
-</div>
-<script>$('#searchbox').show(0);</script>
-
-
-
-
-
-
-
-
-        </div>
-      </div>
-      <div class="clearer"></div>
-    </div>
-    <div class="footer">
-      &copy;2021, TaTooKa.
-      
-      |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 4.2.0</a>
-      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
-      
-      |
-      <a href="_sources/index.rst.txt"
-          rel="nofollow">Page source</a>
-    </div>
-
-    
-
-    
-  </body>
+</body>
 </html>
