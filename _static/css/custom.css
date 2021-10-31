@@ -1,2 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap');
+
 .wy-side-nav-search{ background-color:rgb(59, 95, 148) }
 .wy-side-nav-search img.logo { filter: drop-shadow(5px 5px 5px #000) }
+.rst-content h1, h2, h3, h4, h5, h6, legend {
+    font-family: 'Josefin Sans', sans-serif;
+}

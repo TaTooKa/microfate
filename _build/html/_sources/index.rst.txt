@@ -48,7 +48,6 @@ feats, resisting with stress as HP, etc.
 .. toctree::
    :hidden:
 
-   index
    pages/whatschanged
    pages/aspects
    pages/consequences
