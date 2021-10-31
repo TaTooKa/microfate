@@ -1,5 +1,5 @@
-microFATE
-=========
+Welcome to microFATE
+====================
 
 MicroFATE is basically a **Fate Core** hack, but stripped to the minimum, while 
 attempting to give more importance to Aspects, Consequences and CaA Actions.
@@ -11,6 +11,9 @@ its adjustments.
 This document assumes familiarity with Fate Core, and will only address
 changes to the system mechanics, or note specific things that need to be
 clarified.
+
+MicroFATE is licensed `CC BY-SA 4.0
+International <http://creativecommons.org/licenses/by-sa/4.0/>`_.
 
 Why does this exist?
 --------------------
@@ -42,8 +45,11 @@ highlighted, or in other words, not overshadowed by the more
 “traditional” mechanics of Skills as simulationist stats, Stunts as
 feats, resisting with stress as HP, etc.
 
+What's changed?
+===============
+
 No skills or Approaches
-=======================
+-----------------------
 
 In microFATE your Character only has Aspects and Consequences.
 
@@ -129,8 +135,8 @@ turned). Or you can turn the whole attack as a Challenge instead of a
 Conflict: Try to avoid the insta-KO attack long enough; if you fail the
 Challenge you are KO’d.
 
-No Stress boxes, only Consequences
-==================================
+Consequences
+============
 
 In microFATE there are no Stress boxes.
 
@@ -140,6 +146,9 @@ before being taken out.
 Opposing characters or environmental hazards/challenges can have
 different amounts (“slots”) of Consequences, depending on their
 “narrative resistance”.
+
+To accommodate for this, the outcome of the Attack Action has changed:
+you don't deal Stress with your shifts. If you succeed on an Attack action, you either impose a Mild or Moderate Consequence.
 
 How Consequences work
 ---------------------
