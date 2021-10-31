@@ -1,10 +1,12 @@
-What's changed?
-===============
+Changes from Fate Core
+======================
 
-No skills or Approaches
+If you are already familiarized with Fate Core, this overview will get you up to speed with microFATE.
+
+No Skills or Approaches
 -----------------------
 
-In microFATE your Character only has Aspects and Consequences.
+In microFATE your Character only has **Aspects** and **Consequences**.
 
 When you do an Action, you roll at +0 by default.
 
@@ -19,7 +21,7 @@ Aspect had those).
 No Stress, only Consequences
 ----------------------------
 
-In microFATE there are no Stress boxes.
+In microFATE **there are no Stress boxes**, or the concept of Stress.
 
 Player Characters can have 3 Consequences (1 mild, 1 moderate, 1 severe)
 before being taken out.
@@ -30,3 +32,13 @@ different amounts (“slots”) of Consequences, depending on their
 
 To accommodate for this, the outcome of the Attack Action has changed:
 you don't deal Stress with your shifts. If you succeed on an Attack action, you either impose a Mild or Moderate Consequence.
+
+No special rules for ties in Action Outcomes
+--------------------------------------------
+
+When you roll the dice and you match the difficulty, it counts as a Success.
+
+"Succeed with style" is called "Exceed"
+---------------------------------------
+
+It is shorter and sounds way cooler.
