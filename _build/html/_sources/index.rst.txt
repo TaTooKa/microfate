@@ -19,8 +19,9 @@ Why does this exist?
 --------------------
 
 microFATE attempts to reduce the Fate RPG philosophies to its minimum
-and most pure. That is: Aspects. To tell a collaborative story, while
-still maintaining the mechanics that make it a game and not an improv
+and most pure mechanic: **Aspects.**
+
+To tell a collaborative story, while still maintaining the mechanics that make it a game and not an improv
 session, you don’t really need much more than Aspects and the Core
 mechanics of the system.
 
