@@ -27,8 +27,8 @@ True Immunity and Insta-kill Attacks
 
 Because *Aspects are True*, depending on the wording, there are cases in
 which they can give what is perceived as total immunity against certain
-sources. For instance, Aspects like *Man of Steel*, *Godlike
-Invulnerability* or *Can Only Be Harmed by Magic Sources* might make
+sources. For instance, Aspects like ``Man of Steel``, ``Godlike
+Invulnerability`` or ``Can Only Be Harmed by Magic Sources`` might make
 mundane attacks (like melee weapons or bullets) completely ineffective
 against that character. That is ok, it is accepted by design. Is what we
 call *True Immunity*. In those cases, the GM should not require a roll
@@ -43,7 +43,7 @@ overpowered Aspects:
 1. Write a similar but reduced version of the Aspect. Change the wording
    so that the Aspect can be used to gain a +2 when Defending from
    certain sources, but that it is not a strict denial of all damage
-   (*Super resistance* or *Strong Magic Shield* could be good
+   (``Super resistance`` or ``Strong Magic Shield`` could be good
    alternatives).
 2. Allow those Aspects, but be very restrained at the time of giving
    them. Do not allow those freely, but with a cost (make them fight for
@@ -58,7 +58,7 @@ bypass their extreme resistances and make a compelling narrative
 nonetheless.
 
 The same concept can be applied but to Attacks instead of defenses.
-Think of insta-kill death-rays or the *Gaze of the Medusa* that
+Think of insta-kill death-rays or the ``Gaze of the Medusa`` that
 instantly turns you into a stone statue (effectively bypassing the
 mechanics and taking out an opponent instantly). Those are called
 *Insta-kill Attacks*. As you can imagine, they are not easily reflected
