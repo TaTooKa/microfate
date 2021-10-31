@@ -5,7 +5,7 @@ MicroFATE is basically a **Fate Core** hack, but stripped to the minimum, while
 attempting to give more importance to Aspects, Consequences and CaA Actions.
 
 it is more of a hack than a "Fate Build" (in which you customize your dials),
-because it changes core mechanics and concepts to simplify and accomodate to 
+because it changes core mechanics and concepts to simplify and accommodate to 
 its adjustments.
 
 This document assumes familiarity with Fate Core, and will only address
@@ -48,6 +48,7 @@ feats, resisting with stress as HP, etc.
 .. toctree::
    :hidden:
 
+   index
    pages/whatschanged
    pages/aspects
    pages/consequences
