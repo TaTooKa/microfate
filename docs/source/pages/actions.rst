@@ -91,6 +91,9 @@ cannot perform an action by themselves, it is normally a **fixed
 difficulty**, arbitrarily set by the GM. It ranges from 0 to 8, being 2 to 4 the default for most
 cases.
 
+.. image:: _static/images/the_ladder.png
+   :width: 400
+
 When your Action is made against an opponent or entity that can actively
 defend, it is normally an **opposed roll**, with the defender setting the
 difficulty with a Defend Action; whoever rolls higher succeeds. A tie always goes for the

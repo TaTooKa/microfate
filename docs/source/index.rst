@@ -59,4 +59,5 @@ feats, resisting with stress as HP, etc.
    pages/opposition
    pages/advancement
    pages/extras
+   pages/worldsofmicrofate
 
