@@ -35,7 +35,7 @@ Hazards and Traps
 Hazards and Traps are usually not sentient obstacles, but could also be
 “taken out” of the Conflict with attacks (If the GM wants to treat them
 as regular obstacles but with more narrative weight, consider making
-them a Challenge).
+them a :hoverxref:`Challenge <challenges>`).
 
 When you want your Hazard or Trap to be something that the Player
 Characters can actively disable with some sort of Attack (it doesn’t
@@ -50,5 +50,5 @@ Some hazards could be passive opposition that only cause negative
 effects if the player Characters fail on their Overcome rolls. Others
 could be active actors that do Attack actions on the Characters (Hidden
 darts, rolling boulders, a far away sniper, etc). In those cases, they
-get a turn just like other adversary NPC, and they can do Attack Actions
-(and sometimes *Create an Advantage* Actions too!).
+get a turn just like other adversary NPC, and they can do :hoverxref:`Attack <attack-action>` Actions
+(and sometimes :hoverxref:`Create an Advantage <caa-action>` Actions too!).
