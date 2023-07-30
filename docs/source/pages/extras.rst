@@ -4,15 +4,14 @@ Extras
 Strategic Crunch
 ----------------
 
-TODO (team weight, zone pushing, etc)
+You can add more crunch and interesting mechanics to any version of Fate, including microFATE, with minimal or no changes.
+Most are listed and thoroughly explained in the `Advanced Conflict <https://fate-srd.com/war-ashes/advanced-conflict>`_ section of the Fate SRD.
 
--  Team weight (charge! Doubles your weight and can Push)
--  Contested movement (non-free, requires Overcome)
--  Push/Pull opponent 1 zone
--  Barriers
--  Weapon/Armor Ratings (bonuses but only for successful hits)
--  Other advantages that can be achieved by simply creating Aspects
-   (flanking, full defense, high ground, etc).
+-  Team weight - see `Weight <https://fate-srd.com/war-ashes/advanced-conflict#weight>`_ in the Fate SRD.
+-  Contested movement - see `Movement on the Battlefield <https://fate-srd.com/war-ashes/advanced-conflict#movement-on-the-battlefield>`_ in the Fate SRD.
+-  Maneuvers - Push/Pull/Charge - see `Maneuvers <https://fate-srd.com/war-ashes/advanced-conflict#maneuvers>`_ in the Fate SRD.
+-  Zones and Barriers - see `Zones <https://fate-srd.com/fate-system-toolkit/zones>`_ in the Fate SRD.
+-  Weapon/Armor Ratings - see `Weapons & Armor <https://fate-srd.com/fate-core/more-examples-extras#weapon-and-armor-ratings>`_ in the Fate SRD.
 
 Stunts
 ------
@@ -49,7 +48,10 @@ niche circumstance or context].
 Stunt Examples
 ~~~~~~~~~~~~~~
 
-ToDo
+[ToDo]
+
+
+For more Stunt examples, consider checking out `the ones in Three Rocketeers <https://fate-srd.com/three-rocketeers/no-skill-swashbuckling#stunts>`_, a Fate World of Adventure that also uses an Aspects-only approach.
 
 .. _hardcoded-aspect-types:
 
