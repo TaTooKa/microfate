@@ -12,6 +12,7 @@ Most are listed and thoroughly explained in the `Advanced Conflict <https://fate
 -  Maneuvers - Push/Pull/Charge - see `Maneuvers <https://fate-srd.com/war-ashes/advanced-conflict#maneuvers>`_ in the Fate SRD.
 -  Zones and Barriers - see `Zones <https://fate-srd.com/fate-system-toolkit/zones>`_ in the Fate SRD.
 -  Weapon/Armor Ratings - see `Weapons & Armor <https://fate-srd.com/fate-core/more-examples-extras#weapon-and-armor-ratings>`_ in the Fate SRD.
+-  Scale difference - see `Scale <https://fate-srd.com/fate-system-toolkit/scale>`_ in the Fate SRD.
 
 Stunts
 ------
