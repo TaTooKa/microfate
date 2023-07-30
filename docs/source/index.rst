@@ -8,12 +8,15 @@ it is more of a hack than a "Fate Build" (in which you customize your dials),
 because it changes core mechanics and concepts to simplify and accommodate to 
 its adjustments.
 
-This document assumes familiarity with Fate Core, and will only address
+This document assumes familiarity with **Fate Core** [#]_, and will only address
 changes to the system mechanics, or note specific things that need to be
 clarified.
 
+.. [#] Further reading: Fate RPG system (buy the `Fate Core <https://evilhat.com/product/fate-core-system/>` or `Fate Condensed <https://evilhat.com/product/fate-condensed/>` books) or browse through the `Fate SRD <https://fate-srd.com/>` (free).
+
+
 MicroFATE is licensed `CC BY-SA 4.0
-International <http://creativecommons.org/licenses/by-sa/4.0/>`_.
+International <http://creativecommons.org/licenses/by-sa/4.0/>`_ as per the `official Fate licensing guidelines <https://www.faterpg.com/licensing/licensing-fate-cc-by/>`.
 
 Why does this exist?
 --------------------
