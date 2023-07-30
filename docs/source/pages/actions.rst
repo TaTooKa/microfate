@@ -92,7 +92,8 @@ difficulty**, arbitrarily set by the GM. It ranges from 0 to 8, being 2 to 4 the
 cases.
 
 .. image:: ../_static/images/the_ladder.png
-   :width: 400
+   :width: 300
+   :align: center
 
 When your Action is made against an opponent or entity that can actively
 defend, it is normally an **opposed roll**, with the defender setting the
