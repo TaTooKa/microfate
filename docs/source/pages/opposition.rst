@@ -47,7 +47,7 @@ out of Consequences and is effectively taken out, you can consider it
 deactivated or disabled.
 
 Some hazards could be passive opposition that only cause negative
-effects if the player Characters fail on their Overcome rolls. Others
+effects if the player Characters fail on their :hoverxref:`Overcome <overcome-action>` rolls. Others
 could be active actors that do Attack actions on the Characters (Hidden
 darts, rolling boulders, a far away sniper, etc). In those cases, they
 get a turn just like other adversary NPC, and they can do :hoverxref:`Attack <attack-action>` Actions
