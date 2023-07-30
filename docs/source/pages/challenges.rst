@@ -11,7 +11,7 @@ Trials Challenge
 ----------------
 
 Set a high difficulty for the Challenge (10 or more). The Player
-Characters need to do a series of Create an Advantage or Overcome
+Characters need to do a series of :hoverxref:`Create an Advantage <caa-action>` or :hoverxref:`Overcome <overcome-action>`
 Actions (the Trials). Positive results (+1 or more) add up to the
 overall effort. Negative results (-1 or less) subtract from the effort.
 
@@ -55,7 +55,7 @@ Tug-Of-War Challenge
 
 This Challenge type is ideal for two sides or teams competing against
 each other (Keep in mind that if violence arises, the scene must evolve
-into a Conflict. Attack actions are not allowed in Challenges). It is
+into a :hoverxref:`Conflict <conflicts>`. :hoverxref:`Attack actions <attack-action>` are not allowed in Challenges). It is
 ideal for Chase scenes, sports matches, and similar situations involving
 two teams.
 
@@ -67,10 +67,10 @@ NPCs need to take it all the way down to -5 or less to win.
 
 Each side takes turns doing an action:
 
--  Create an Advantage actions can place Aspects on the scene. Ideally
+-  :hoverxref:`Create an Advantage <caa-action>` actions can place Aspects on the scene. Ideally
    the team creates or discovers Aspects to get their benefits in a
    future turn.
--  Overcome actions can make progress in the tug-of-war track. A Success
+-  :hoverxref:`Overcome <overcome-action>` actions can make progress in the tug-of-war track. A Success
    means making 1 point of progress; an Excess means either making 2
    points of progress, or 1 and creating a Boost. Failure means there is
    no progress.
