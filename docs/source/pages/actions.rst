@@ -61,6 +61,8 @@ allies, hinders an opponent, or changes the situation...*
 
 * If you **Exceed**: You create/alter an Aspect and put two free invokes on it.
 
+.. _attack-action:
+
 |icon_attack| Attack
 ~~~~~~~~~~~~~~~~~~~~
 

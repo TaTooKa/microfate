@@ -13,7 +13,7 @@ Anyone can design a **"Worlds of microFATE"** document. These guidelines should 
 
 A World of microFATE can have:
 
-* A setting/scenario description or primer.[#]_
+* A setting/scenario description or primer. [#]_
 
 * A list of ":hoverxref:`Hardcoded Aspect Types <hardcoded-aspect-types>`" for Characters in the setting.
 

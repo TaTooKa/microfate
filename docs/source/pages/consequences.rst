@@ -8,7 +8,7 @@ How Consequences work
 ---------------------
 
 When a character does an Attack Action, instead of dealing Stress, they
-deal Consequences to the opponent. See Action Outcomes for Consequence
+deal Consequences to the opponent. See :hoverxref:`Action Outcomes <attack-action>` for Consequence
 severity depending on the result of your roll.
 
 When a Character Defends and fails, their player has to decide if they
