@@ -23,9 +23,13 @@ A World of microFATE can have:
 
 .. [#] This can be anything from a one-liner like *"Star Wars in the Clone Wars era"*, to a custom universe and situation explainer that spans hundreds of pages.
 
-.. [#] Veteran Fate players might not even need these samples, but for newcomers to the hobby or "trad RPGers" that come from other classic RPGs, these lists of Aspects are extremely helpful to kickstart and speed up character creation.
+.. [#] Veteran Fate players might not even need these examples, but for newcomers to the hobby or "trad RPGers" that come from other classic RPGs, these lists of Aspects are extremely helpful to kickstart and speed up character creation.
 
 .. [#] These are mostly geared towards the GM, to allow a *pick and play* improv-style format in which to start running a microFATE game without prep.
+
+
+
+following are some examples of **Worlds of microFATE** to use at the table or to base your own World.
 
 Adventures in Middle Earth
 --------------------------
