@@ -51,6 +51,8 @@ Stunt Examples
 
 ToDo
 
+.. _hardcoded-aspect-types:
+
 Hardcoded Aspect Types
 ----------------------
 
