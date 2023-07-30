@@ -17,11 +17,15 @@ A World of microFATE can have:
 
 * A list of ":hoverxref:`Hardcoded Aspect Types <hardcoded-aspect-types>`" for Characters in the setting.
 
-* A list of sample Aspects for Characters, and optionally for opposition, scenes, scenarios, etc.
+* A list of sample Aspects for Characters, and optionally for opposition, scenes, scenarios, etc. [#]_
 
-* Adventure hooks or scenario-specific ideas, and/or "set-piece" scene suggestions that make sense for the setting or genre.
+* Adventure hooks or scenario-specific ideas, and/or "set-piece" scene suggestions that make sense for the setting or genre. [#]_
 
 .. [#] This can be anything from a one-liner like *"Star Wars in the Clone Wars era"*, to a custom universe and situation explainer that spans hundreds of pages.
+
+.. [#] Veteran Fate players might not even need these samples, but for newcomers to the hobby or "trad RPGers" that come from other classic RPGs, these lists of Aspects are extremely helpful to kickstart and speed up character creation.
+
+.. [#] These are mostly geared towards the GM, to allow a *pick and play* improv-style format in which to start running a microFATE game without prep.
 
 Adventures in Middle Earth
 --------------------------
