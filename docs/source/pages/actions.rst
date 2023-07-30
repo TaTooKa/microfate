@@ -1,14 +1,14 @@
 .. |icon_overcome| image:: ../_static/images/overcome.png
-  :height: 2ex
+  :height: 4ex
 
 .. |icon_caa| image:: ../_static/images/createanadvantage.png
-  :height: 2ex
+  :height: 4ex
 
 .. |icon_attack| image:: ../_static/images/attack.png
-  :height: 2ex
+  :height: 4ex
 
 .. |icon_defend| image:: ../_static/images/defend.png
-  :height: 2ex
+  :height: 4ex
 
 Actions
 =======
@@ -20,18 +20,18 @@ You still cannot invoke the same Aspect more than once in the same Action.
 Action Outcomes
 ---------------
 
-Fail
-~~~~
+👎 Fail
+~~~~~~
 
 If you roll lower than your opposition, you fail.
 
-Succeed
-~~~~~~~
+👍 Succeed
+~~~~~~~~~
 
 If you roll equal to or higher than your opposition by 1 or 2, you succeed.
 
-Exceed
-~~~~~~
+💪 Exceed
+~~~~~~~~
 
 If you roll higher than your opposition by 3 or more, you succeed with style (a Critical hit!).
 
