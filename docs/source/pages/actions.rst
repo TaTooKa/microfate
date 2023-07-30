@@ -1,3 +1,15 @@
+.. |icon_overcome| image:: ../_static/images/overcome.png
+  :height: 2ex
+
+.. |icon_caa| image:: ../_static/images/createanadvantage.png
+  :height: 2ex
+
+.. |icon_attack| image:: ../_static/images/attack.png
+  :height: 2ex
+
+.. |icon_defend| image:: ../_static/images/defend.png
+  :height: 2ex
+
 Actions
 =======
 
@@ -26,8 +38,8 @@ If you roll higher than your opposition by 3 or more, you succeed with style (a 
 Action Types
 ------------
 
-Overcome
-~~~~~~~~
+|icon_overcome| Overcome
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 *When your objective is to overcome an obstacle that is in your way...*
 
@@ -37,8 +49,8 @@ Overcome
 
 * If you **Exceed**: You succeed and create a Boost.
 
-Create an Advantage
-~~~~~~~~~~~~~~~~~~~
+|icon_caa| Create an Advantage
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *When your objective is to do something that benefits you or your
 allies, hinders an opponent, or changes the situation...*
@@ -49,8 +61,8 @@ allies, hinders an opponent, or changes the situation...*
 
 * If you **Exceed**: You create/alter an Aspect and put two free invokes on it.
 
-Attack
-~~~~~~
+|icon_attack| Attack
+~~~~~~~~~~~~~~~~~~~~
 
 *When your desired action’s outcome is to take out the opposition or place
 Consequences on them…*
@@ -61,8 +73,8 @@ Consequences on them…*
 
 * If you **Exceed**: You inflict a Moderate Consequence on your opponent.
 
-Defend
-~~~~~~
+|icon_defend| Defend
+~~~~~~~~~~~~~~~~~~~~
 
 *When you attempt to avoid an Attack or prevent someone from Creating an
 Advantage against you…*
