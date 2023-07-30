@@ -22,6 +22,8 @@ campaign, and maybe for the scenario or current conflict as well. Use it
 to define the genre and setting, and to enforce it by invoking it or
 compelling characters with it.
 
+.. _immunity-aspects:
+
 True Immunity and Insta-kill Attacks
 ------------------------------------
 

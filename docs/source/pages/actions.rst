@@ -17,6 +17,8 @@ As it was briefly explained in the "Changes from Fate Core" section, one of the 
 
 You still cannot invoke the same Aspect more than once in the same Action.
 
+.. _action-outcomes:
+
 Action Outcomes
 ---------------
 
@@ -38,6 +40,8 @@ If you roll higher than your opposition by 3 or more, you succeed with style (a 
 Action Types
 ------------
 
+.. _overcome-action:
+
 |icon_overcome| Overcome
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -48,6 +52,8 @@ Action Types
 * If you **Succeed**: You simply succeed, without any cost.
 
 * If you **Exceed**: You succeed and create a Boost.
+
+.. _caa-action:
 
 |icon_caa| Create an Advantage
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -74,6 +80,8 @@ Consequences on them…*
 * If you **Succeed**: You inflict a Mild Consequence on your opponent.
 
 * If you **Exceed**: You inflict a Moderate Consequence on your opponent.
+
+.. _defend-action:
 
 |icon_defend| Defend
 ~~~~~~~~~~~~~~~~~~~~
