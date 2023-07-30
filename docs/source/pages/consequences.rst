@@ -11,7 +11,7 @@ When a character does an Attack Action, instead of dealing Stress, they
 deal Consequences to the opponent. See :hoverxref:`Action Outcomes <attack-action>` for Consequence
 severity depending on the result of your roll.
 
-When a Character :hoverxref:`Defends <defense-action>` and fails, their player has to decide if they
+When a Character :hoverxref:`Defends <defend-action>` and fails, their player has to decide if they
 get taken out or suffer a Consequence. If they already have their slot
 filled with another previous Consequence, they have to fill the next
 higher available slot. If they cannot take more Consequences of the
