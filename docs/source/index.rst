@@ -12,11 +12,11 @@ This document assumes familiarity with **Fate Core** [#]_, and will only address
 changes to the system mechanics, or note specific things that need to be
 clarified.
 
-.. [#] Further reading: Fate RPG system (buy the `Fate Core <https://evilhat.com/product/fate-core-system/>` or `Fate Condensed <https://evilhat.com/product/fate-condensed/>` books) or browse through the `Fate SRD <https://fate-srd.com/>` (free).
+.. [#] Further reading: Fate RPG system (buy the `Fate Core <https://evilhat.com/product/fate-core-system/>`_ or `Fate Condensed <https://evilhat.com/product/fate-condensed/>`_ books) or browse through the `Fate SRD <https://fate-srd.com/>`_ (free).
 
 
 MicroFATE is licensed `CC BY-SA 4.0
-International <http://creativecommons.org/licenses/by-sa/4.0/>`_ as per the `official Fate licensing guidelines <https://www.faterpg.com/licensing/licensing-fate-cc-by/>`.
+International <http://creativecommons.org/licenses/by-sa/4.0/>`_ as per the `official Fate licensing guidelines <https://www.faterpg.com/licensing/licensing-fate-cc-by/>`_.
 
 Why does this exist?
 --------------------
