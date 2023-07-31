@@ -27,16 +27,17 @@ No Stress, only Consequences
 In microFATE **there are no Stress boxes**, nor the concept of Stress. [#]_
 
 Player Characters can have 3 Consequences (1 Mild, 1 Moderate, 1 Severe)
-before being taken out.
+before being taken out. [#]_
 
 Opposing characters or environmental hazards/challenges can have
 different amounts (or “slots”) of Consequences, depending on their
 “narrative resistance”.
 
-To accommodate for this, the outcome of the Attack Action has changed:
+To accommodate for this, the outcome of the :hoverxref:`Attack Action <attack-action>` has changed:
 you don't deal Stress with your shifts. If you succeed on an Attack action, you either impose a Mild or Moderate Consequence. [#]_
 
 .. [#] The answer to the question of "have I been hit?" is already covered in the Defense Action. Soaking Stress with Stress boxes felt like a second chance at avoiding harm once you had failed your Defense roll, which didn't make much sense to us. We prefer going directly to dealing with the Consequences (pun intended). 
+.. [#] This makes microFATE's characters much less "durable" than their Core/Condensed counterparts. This is designed this way to encourage players to play more defensively (**creating Advantages** between each other) or to :hoverxref:`Concede <conceding>` before risking taking Consequences or being Taken Out. Conflicts tend to be much faster and every successful Attack action has more weight, causing real Consequences (pun also intended).
 .. [#] This changes the way that most Fate Core Conflicts play out: instead of stacking lots of Advantages or invocations on a single huge hit, in microFATE you are encouraged to split your effort: since you can't take out a named NPC with a single hit (the max you can inflict per Action is a Moderate Consequence), you need to distribute your advantages (or Fate Points and free invokes) among several Actions.
 
 Fixed Fate Point pool
