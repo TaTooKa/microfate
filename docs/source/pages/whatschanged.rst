@@ -42,10 +42,10 @@ you don't deal Stress with your shifts. If you succeed on an Attack action, you 
 Fixed Fate Point pool
 ---------------------
 microFATE uses a :hoverxref:`fixed and limited pool of Fate Points <limited-fate-point-pool>`. Player Characters get 3 at the start of the session and there's no concept of **Refresh** or maximum amount of Fate Points per player.
-GMs get 1 Fate Point per player.
+GMs get 3 Fate Points per player.
 Fate points go from player to player (or GM), and the total amount of Fate Points in the table always remains the same. [#]_
 
-.. [#] Since when one side of the pool empties, the other cannot gain any new Fate Points, this creates a resource to administer strategically by both sides, while maintaining simplicity. But this can create situations in which a player doesn't receive a Fate Point because the opposite Pool is empty (like when :hoverxref:`Conceding a Conflict <conceding>`.)
+.. [#] Since when one side of the pool empties, the other cannot gain any new Fate Points, this creates a resource to administer strategically by both sides, while maintaining simplicity. But this can create situations in which a player doesn't receive a Fate Point because the opposite Pool is empty (like when :hoverxref:`Conceding a Conflict <conceding>`.) or in which some actions are discouraged (like a self-compel when there is no Fate Point to be gained.). This is by design, to encourage the expenditure of Fate Points (or discourage "Fate Point hoarding") for them to be moved from side to side in a constant manner.
 
 
 No special rules for ties in Action Outcomes
