@@ -7,8 +7,8 @@ This section goes into detail about Consequences in microFATE. They are mostly t
 How Consequences work
 ---------------------
 
-When a character does an Attack Action, instead of dealing Stress, they
-deal Consequences to the opponent. See :hoverxref:`Action Outcomes <attack-action>` for Consequence
+When a character does an Attack Action, instead of dealing Stress as in Fate Core, they
+deal direct Consequences to the opponent [#]_ . See :hoverxref:`Action Outcomes <attack-action>` for Consequence
 severity depending on the result of your roll.
 
 When a Character :hoverxref:`Defends <defend-action>` and fails, their player has to decide if they
@@ -19,6 +19,10 @@ required severity, they are automatically taken out.
 
 Keep in mind that Consequences always come with a free invoke for the
 side of whoever applied that Consequence on your Character.
+
+.. [#] Remember you can always **Concede** before the dice roll. When a player declares they are going to attack, 
+you can choose to Concede and avoid taking consequences. After the roll is made, though, there's no going back: 
+If you fail your **Defense**, you either take a **Consequence** or get **Taken Out. See `Conceding the Conflict <https://fate-srd.com/fate-core/conceding-conflict>`_ in the Fate SRD.
 
 Removing Consequences
 ~~~~~~~~~~~~~~~~~~~~~
