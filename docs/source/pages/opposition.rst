@@ -39,7 +39,7 @@ them a :hoverxref:`Challenge <challenges>`).
 
 When you want your Hazard or Trap to be something that the Player
 Characters can actively disable with some sort of Attack (it doesn’t
-have to be physical or brute force actions), **you can give them
+have to be physical or brute force actions), use `the bronze rule <https://fate-srd.com/fate-system-toolkit/bronze-rule>`_: **you can give them
 Condition slots. 1 mild and 1 moderate is a good default.** These
 Consequences should represent the mechanisms of the device failing, the
 obstacle’s power dwindling, or something along those lines. When it runs
