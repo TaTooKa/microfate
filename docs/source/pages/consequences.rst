@@ -20,9 +20,7 @@ required severity, they are automatically taken out.
 Keep in mind that Consequences always come with a free invoke for the
 side of whoever applied that Consequence on your Character.
 
-.. [#] Remember you can always **Concede** before the dice roll. When a player declares they are going to attack, 
-you can choose to Concede and avoid taking consequences. After the roll is made, though, there's no going back: 
-If you fail your **Defense**, you either take a **Consequence** or get **Taken Out. See `Conceding the Conflict <https://fate-srd.com/fate-core/conceding-conflict>`_ in the Fate SRD.
+.. [#] Remember you can always **Concede** before the dice roll. When a player declares they are going to attack, you can choose to Concede and avoid taking consequences. After the roll is made, though, there's no going back: If you fail your **Defense**, you either take a **Consequence** or get **Taken Out. See `Conceding the Conflict <https://fate-srd.com/fate-core/conceding-conflict>`_ in the Fate SRD.
 
 Removing Consequences
 ~~~~~~~~~~~~~~~~~~~~~
