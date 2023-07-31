@@ -38,14 +38,16 @@ takes a turn, and when it ends, they choose the next Character in the
 queue (allies or enemies!). Repeat that process until all of the
 involved actors in the Conflict had their turn.
 
+.. _conceding:
+
 Conceding a Conflict
 --------------------
 
-Concessions work just like in Fate Core: if you concede a Conflict, you
-don’t gain what you were looking for, but you don’t get taken out.
-Player Characters gain 1 Fate Point plus another one per each
-Consequence they gained during this Conflict (GM controlled NPCs gain
-nothing!).
+Concessions work very similarly to Fate Core: if you concede a Conflict, you
+don’t gain what you were looking for, but you don’t get taken out. [#]_
+Player-controlled Characters gain 1 Fate Point plus another one per each
+Consequence they gained during this Conflict. These Fate Points come from the GM pool. [#]_
+**GM-controlled Characters don't get any Fate Point for conceding**.
 
 When the players concede, the GM will propose a negative outcome that is
 not as bad as if they were all taken out, but that still implies they
@@ -60,6 +62,9 @@ Keep in mind that conceding is meant to give the acting character(s) an
 out; As long as the proposition doesn’t feel extremely fantastic or too
 much of a stretch, the opposing side should accept it in benefit of a
 smooth narrative.
+
+.. [#] See `Conceding the Conflict <https://fate-srd.com/fate-core/conceding-conflict>`_ in the Fate SRD for a more thorough explanation.
+.. [#] This means that if the GM doesn't have enough Fate Points in their pool, the conceding PC gets fewer (or none)!
 
 Zones
 -----
