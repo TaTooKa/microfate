@@ -1,6 +1,11 @@
 Fate Points
 ===========
 
+.. _limited-fate-point-pool:
+
+Limited Fate Point Pool
+-----------------------
+
 Each Player Character starts the Session with 3 Fate Points (There is no "Refresh" concept in microFATE). The GM gets a number of Fate Points equal to the number of Player Characters x 3 (this means that you need 6 physical Fate Point tokens per player in total).
 
 When players spend Fate Points, they go to the GM’s pool (unless they
@@ -18,7 +23,7 @@ The GM only spends Fate Points in two situations:
    2. Let the players decide.
    3. The GM decides.
 
-This means that the GM pool of Fate Points is limited by design. If the
+This means that the total pool of Fate Points is limited by design. If the
 GM runs out of Fate Points, they cannot compel Player Characters nor
 invoke NPC Aspects. This also means that the Players (or even a single
 player) could theoretically hoard all of the Fate Points from the table

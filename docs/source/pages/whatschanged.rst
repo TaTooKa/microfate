@@ -39,6 +39,15 @@ you don't deal Stress with your shifts. If you succeed on an Attack action, you 
 .. [#] The answer to the question of "have I been hit?" is already covered in the Defense Action. Soaking Stress with Stress boxes felt like a second chance at avoiding harm once you had failed your Defense roll, which didn't make much sense to us. We prefer going directly to dealing with the Consequences (pun intended). 
 .. [#] This changes the way that most Fate Core Conflicts play out: instead of stacking lots of Advantages or invocations on a single huge hit, in microFATE you are encouraged to split your effort: since you can't take out a named NPC with a single hit (the max you can inflict per Action is a Moderate Consequence), you need to distribute your advantages (or Fate Points and free invokes) among several Actions.
 
+Fixed Fate Point pool
+---------------------
+microFATE uses a :hoverxref:`fixed and limited pool of Fate Points <limited-fate-point-pool>`. Player Characters get 3 at the start of the session and there's no concept of **Refresh** or maximum amount of Fate Points per player.
+GMs get 1 Fate Point per player.
+Fate points go from player to player (or GM), and the total amount of Fate Points in the table always remains the same. [#]_
+
+.. [#] Since when one side of the pool empties, the other cannot gain any new Fate Points, this creates a resource to administer strategically by both sides, while maintaining simplicity. But this can create situations in which a player doesn't receive a Fate Point because the opposite Pool is empty (like when :hoverxref:`Conceding a Conflict <conceding>`.)
+
+
 No special rules for ties in Action Outcomes
 --------------------------------------------
 
