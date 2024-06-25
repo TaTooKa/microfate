@@ -105,23 +105,32 @@ cannot perform an action by themselves, it is normally a **fixed
 difficulty**, arbitrarily set by the GM. It ranges from 0 to 8, being 2 to 4 the default for most
 cases.
 
-.. image:: ../_static/images/the_ladder.png
-   :width: 300
-   :align: center
+.. list-table:: The Ladder
+   :widths: 50 50
+   :header-rows: 0
 
-.. list-table:: Title
-   :widths: 25 25 50
-   :header-rows: 1
-
-   * - Heading row 1, column 1
-     - Heading row 1, column 2
-     - Heading row 1, column 3
-   * - Row 1, column 1
-     -
-     - Row 1, column 3
-   * - Row 2, column 1
-     - Row 2, column 2
-     - Row 2, column 3
+   * - +8
+     - Legendary
+   * - +7
+     - Epic
+   * - +6
+     - Fantastic
+   * - +5
+     - Superb
+   * - +4
+     - Great
+   * - +3
+     - Good
+   * - +2
+     - Fair
+   * - +1
+     - Average
+   * - +0
+     - Mediocre
+   * - -1
+     - Poor
+   * - -2
+     - Terrible
 
 When your Action is made against an opponent or entity that can actively
 defend, it is normally an **opposed roll**, with the defender setting the
