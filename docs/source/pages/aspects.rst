@@ -71,3 +71,11 @@ moments of gazing into the gorgon’s eyes before being completely
 turned). Or you can turn the whole attack as a Challenge instead of a
 Conflict: Try to avoid the insta-KO attack long enough; if you fail the
 Challenge you are KO’d.
+
+.. _boosts:
+
+Boosts
+------
+Boosts are super-transient Aspects, that are usually created when you :hoverxref:`Exceed <action-outcomes>` in an :hoverxref:`Overcome <overcome-action>` or :hoverxref:`Defend <defend-action>` action. Boosts always come with **a free invoke** for the side that created it.
+
+Boosts tend to expire on their own after a short time (usually one or two turns), and they are simple Aspects that wouldn't take much effort to remove. For example, While Defending from an enemy, you might **Exceed** and impose an ``Off-Balance`` Boost on them. One of your allies might use the free invoke in that Boost for a +2, and then the Boost is gone. If none of your allies use that Boost, it would be gone on its own in one or two turns; that opponent doesn't need to do anything to remove it.
