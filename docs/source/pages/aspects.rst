@@ -1,6 +1,8 @@
 Aspects
 =======
 
+Aspects in microFATE work just like in Fate Core (see `Aspects <https://fate-srd.com/fate-core/types-aspects>`_ in the SRD).
+
 Starting Player Characters have 5 Aspects. Their types can vary from
 game to game, but usually they are:
 
