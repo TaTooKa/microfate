@@ -136,3 +136,32 @@ When your Action is made against an opponent or entity that can actively
 defend, it is normally an **opposed roll**, with the defender setting the
 difficulty with a Defend Action; whoever rolls higher succeeds. A tie always goes for the
 attacker (or the initiating actor).
+
+Action Cheatsheet
+-----------------
+
+.. list-table:: 
+   :widths: 25 25 25 25
+   :header-rows: 1
+
+   * - Action / Result
+     - 👎 Fail
+     - 👍 Succeed
+     - 💪 Exceed
+   * - |icon_overcome| Overcome
+     - Failure (or Success at a serious cost)
+     - Success
+     - Success + create Boost
+   * - |icon_caa| Create an Advantage
+     - Don't create/alter Aspect (or do, but opponent gets free invoke)
+     - Create/alter Aspect (1 free invoke)
+     - Create/alter Aspect (2 free invokes)
+   * - |icon_attack| Attack
+     - Don't Take Out opponent nor inflict Consequences
+     - Take Out opponent (or inflict Mild Consequence)
+     - Take Out opponent (or inflict Moderate Consequence)
+   * - |icon_defend| Defend
+     - Get Taken Out, suffer a Consequence or Aspect placed on you
+     - Avoid the Attack or CaA attempt
+     - Avoid the Attack or CaA attempt + create Boost
+
