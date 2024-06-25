@@ -109,6 +109,20 @@ cases.
    :width: 300
    :align: center
 
+.. list-table:: Title
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Heading row 1, column 1
+     - Heading row 1, column 2
+     - Heading row 1, column 3
+   * - Row 1, column 1
+     -
+     - Row 1, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
+
 When your Action is made against an opponent or entity that can actively
 defend, it is normally an **opposed roll**, with the defender setting the
 difficulty with a Defend Action; whoever rolls higher succeeds. A tie always goes for the
