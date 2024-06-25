@@ -1,7 +1,7 @@
 Consequences
 ============
 
-This section goes into detail about Consequences in microFATE. They are mostly the same as in Fate Core, with some exceptions.
+This section goes into detail about Consequences in microFATE. They are mostly the same as in Fate Core (see `Consequences <https://fate-srd.com/fate-core/types-aspects#consequences>`_ in the SRD), with some exceptions.
 
 
 How Consequences work
