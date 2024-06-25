@@ -8,7 +8,7 @@ game to game, but usually they are:
 -  Trouble
 -  Relationship
 -  Backstory
--  Other
+-  Objective
 
 To start the game, you need to have at least the High Concept and
 Trouble defined. The others can be defined as you play your first
