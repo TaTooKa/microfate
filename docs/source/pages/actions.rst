@@ -51,7 +51,7 @@ Action Types
 
 * If you **Succeed**: You simply succeed, without any cost.
 
-* If you **Exceed**: You succeed and create a Boost.
+* If you **Exceed**: You succeed and create a :hoverxref:`Boost <boosts>`.
 
 .. _caa-action:
 
@@ -93,7 +93,7 @@ Advantage against you…*
 
 * If you **Succeed**: You avoid the attack or the attempt to gain advantage on you.
 
-* If you **Exceed**: You avoid the attack or the attempt to gain advantage on you, and also create a Boost.
+* If you **Exceed**: You avoid the attack or the attempt to gain advantage on you, and also create a :hoverxref:`Boost <boosts>`.
 
 Difficulty
 ----------
