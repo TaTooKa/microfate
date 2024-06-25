@@ -16,3 +16,6 @@
     color: #333;
     padding: 0 5px;
 }
+.wy-table-responsive table td, .wy-table-responsive table th {
+  white-space: wrap;
+}
