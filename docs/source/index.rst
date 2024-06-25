@@ -15,8 +15,11 @@ clarified.
 .. [#] Further reading: Fate RPG system (buy the `Fate Core <https://evilhat.com/product/fate-core-system/>`_ or `Fate Condensed <https://evilhat.com/product/fate-condensed/>`_ books) or browse through the `Fate SRD <https://fate-srd.com/>`_ (free).
 
 
-MicroFATE is licensed `CC BY-SA 4.0
-International <http://creativecommons.org/licenses/by-sa/4.0/>`_ as per the `official Fate licensing guidelines <https://www.faterpg.com/licensing/licensing-fate-cc-by/>`_.
+**MicroFATE** is licensed `CC BY-SA 4.0
+International <http://creativecommons.org/licenses/by-sa/4.0/>`_ as per the `official Fate licensing guidelines <https://fate-srd.com/official-licensing-fate/cc>`_.
+
+.. note::
+   This work is based on Fate Core System and Fate Accelerated Edition (found at https://www.faterpg.com/), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (https://creativecommons.org/licenses/by/3.0/).
 
 Why does this exist?
 --------------------
