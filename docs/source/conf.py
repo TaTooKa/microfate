@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'microFATE'
-copyright = '2023, TaTooKa'
+copyright = '2024, TaTooKa'
 author = 'TaTooKa'
 
 release = '0.1'
